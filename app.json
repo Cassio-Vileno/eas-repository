@@ -27,6 +27,17 @@
     "web": {
       "bundler": "metro",
       "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6acf80a7-ddeb-4a68-9449-4f2234dae035"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6acf80a7-ddeb-4a68-9449-4f2234dae035"
     }
   }
 }
